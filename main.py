@@ -12,6 +12,9 @@ def encode(password):
     '''
     pass
 
+def decode(password):
+    pass
+
 if __name__ == "__main__":
     '''
     while loop for menu goes here
